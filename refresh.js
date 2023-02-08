@@ -1,4 +1,4 @@
-import exec from 'node:child_process';
+import { exec } from 'node:child_process';
 
 setInterval( () => {
     exec('git pull', async (error, output) => { 

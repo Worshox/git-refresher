@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Mini-app for refreshing bot codebase from github",
   "main": "refresh.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

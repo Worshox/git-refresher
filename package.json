@@ -1,0 +1,14 @@
+{
+  "name": "github-refresh",
+  "version": "1.0.0",
+  "description": "Mini-app for refreshing bot codebase from github",
+  "main": "refresh.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Github"
+  ],
+  "author": "Worshox",
+  "license": "ISC"
+}
